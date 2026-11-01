@@ -1,5 +1,7 @@
 # Fitness RAG Assistant
 
+[![Python Tests](https://github.com/singh22krishan/fitness-rag-assistant/actions/workflows/tests.yml/badge.svg)](https://github.com/singh22krishan/fitness-rag-assistant/actions/workflows/tests.yml)
+
 A Retrieval-Augmented Generation (RAG) application that answers workout and nutrition questions from a locally supplied document using **LangChain, Gemini, FAISS, PyPDF, and Gradio**.
 
 ## Portfolio Context
